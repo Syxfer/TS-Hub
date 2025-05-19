@@ -1,0 +1,5 @@
+MUST DOWNLOAD ALL ASSETS
+MUST RUN INSTALLER
+
+installer is for python and its modules 
+assets are for the tool to open
